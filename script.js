@@ -43,7 +43,7 @@ function updateList() {
 
         });
 
-        // add to page
+        
         list.appendChild(li);
     }
 }
